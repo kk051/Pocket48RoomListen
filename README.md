@@ -8,13 +8,13 @@
 ### 使用方法
 <p>1、git clone或者下载项目到本地。</p>
 <p>2、修改MyPlugin.cs的Initialize方法中，修改有关listenConfig的内容</p>
-- QQGroup = 应援群
-- KDRoomId = 口袋房间id 需要自行抓口袋信息获取
-- IdolName = 小偶像名字
-- GetRoomMsgDelay = 获取口袋房间消息时间间隔
-- GetLiveDelay = 获取口袋直播消息时间间隔 //暂时没卵用
-- GetWeiboDelay = 获取微博更新消息时间间隔 //暂时也没卵用
-- HitYouText = 如果口袋消息是翻牌时的追加文案 //这个可以通过面板去更改，不必编译时更改
+##### QQGroup = 应援群
+##### KDRoomId = 口袋房间id 需要自行抓口袋信息获取
+##### IdolName = 小偶像名字
+##### GetRoomMsgDelay = 获取口袋房间消息时间间隔
+##### GetLiveDelay = 获取口袋直播消息时间间隔 //暂时没卵用
+##### GetWeiboDelay = 获取微博更新消息时间间隔 //暂时也没卵用
+##### HitYouText = 如果口袋消息是翻牌时的追加文案 //这个可以通过面板去更改，不必编译时更改
 <p>3、编译</p>
 <p>4、将项目目录中Publish内的所有文件带走，合并至酷Q Air文件夹</p>
 <p>5、运行Flexlive.CQP.CSharpProxy.exe，就可以看看新编译出来的插件了~</p>
