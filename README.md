@@ -1,11 +1,11 @@
 # Pocket48RoomListen
 口袋48房间监听搬运
 
-###项目基础
+### 项目基础
 <p>酷Q air 机器人 http://cqp.cc/</p>
 <p>酷Q C# SDK https://cqp.cc/t/28865</p>
 
-###使用方法
+### 使用方法
 <p>1、git clone或者下载项目到本地。</p>
 <p>2、修改MyPlugin.cs的Initialize方法中，修改有关listenConfig的内容</p>
 > QQGroup = 应援群
@@ -26,11 +26,11 @@
 <p>5、运行Flexlive.CQP.CSharpProxy.exe，就可以看看新编译出来的插件了~</p>
 <p>6、运行CQA，登录机器人帐号~这个时候如果CQA消息收取正常，代理这边应该也能正常发送信息了，可以看代理的功能测试面板是否有消息流入</p>
 
-###其他问题
+### 其他问题
 <p>另外，如果退出酷Q的C#代理，代理进程依旧还会驻留！所以依旧可能继续在发消息！</p>
 
-###关于
+### 关于
 <p>Plugins Powered by Teemo Studio</p>
 <p>微博：迟早药丸的提莫队长</p>
 <p>捐助：</p>
-<p>![image](https://github.com/BeatenMo/Pocket48RoomListen/blob/master/donate.jpg)</p>
+<p>![donate](https://github.com/BeatenMo/Pocket48RoomListen/blob/master/donate.jpg)</p>
