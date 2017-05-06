@@ -30,4 +30,4 @@
 <p>微博：迟早药丸的提莫队长</p>
 <p>捐助：</p>
 
-![donate](http://file.shenyuejiao.com/img/donate.jpg)
+![donate](https://github.com/BeatenMo/Pocket48RoomListen/raw/master/donate.jpg)
